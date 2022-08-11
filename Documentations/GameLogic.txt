@@ -1,0 +1,21 @@
+=====Railway Routine=====
+
+=====GameLogic documentation=====
+
+=====Version 0.0.1=====
+
+=====Created 10.08.2022=====
+
+The main idea is:
+A player collects true items and raises the score. If he hits the bomb, the game ends. If he misses a certain amount of true items, the game ends
+There must be a bar of missed items which fulls as the player misses items
+
+The speed increases smoothly during the game
+After a certain amount of time some trash vagons start to spawn, they should be clicked many times to open. Those are armored vagons which can contain bombs or items.
+Higher the speed - more rewards for each resource
+
+There is a score global leadership
+
+Settings: sounds on/off, music on/off, player name, feedback
+
+Buttons on main menu: Play, settings, exit. Leadership on the top of screen

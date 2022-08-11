@@ -1,0 +1,16 @@
+=====Railway Routine=====
+
+=====Version Control documentation=====
+
+=====Version 0.0.1=====
+
+=====Created 10.08.2022=====
+
+Version set contains three numbers:
+0.0.0
+
+The first number is a global version index
+
+The second number stands for local change packages. New features and design, new logic etc.
+
+The third number is for the debugging and small changes
